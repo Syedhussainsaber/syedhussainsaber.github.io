@@ -1,0 +1,51 @@
+@media screen and (max-width:1050px) {
+    nav{
+        flex-direction: column;
+        padding: 3px;
+        margin: 5px;
+    }
+    nav ul{
+        height: 8vh;
+    }
+    header{
+height: 22vh;
+overflow: hidden;
+    }
+    .img{
+            margin: 4x 18px -1px 0px;
+    
+    }
+    .btn2{
+        left: 27vh;
+font-size: 2vh;
+width: 7vh;
+background-color: yellow;
+height: 4vh;
+bottom: 7vw;
+    }
+    .icon img {
+        width: 19vw;
+        position: relative;
+        left: -39vw;
+        bottom: 22vh;
+      }
+      .search input {
+        height: 3vh;
+        width: 35vw;
+        border-radius: 6px;
+        text-align: left;
+      }
+      .search img{
+        right: 5vw;
+        bottom: 2px
+      }
+      .slider{
+          overflow: scroll;
+      }
+      .bowl{
+          overflow: scroll;
+      }
+      .bowl1{
+          overflow: scroll;
+      }
+}
